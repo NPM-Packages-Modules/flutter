@@ -1,5 +1,9 @@
 # Flutter packages
 
+## All packages & topics
+
+See **[PACKAGES.md](./PACKAGES.md)** for all **30** packages with per-package topics.
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
